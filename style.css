@@ -1,0 +1,280 @@
+body{
+    background-color: rgb(29, 28, 28);
+    color: rgb(213, 222, 242);
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 30px;
+}
+
+.icons{
+    display: flex;
+    gap: 30px;
+
+}
+
+.logincontainer{
+    height: 280px;
+    width: 280px;
+    border: 1px solid white;
+
+}
+
+/* .logincontainer :hover .login{
+
+}
+
+.tooltip1 :hover .tooltipbutton{
+
+}
+
+.tooltip1 :hover .fa-regular fa-user{
+
+} */
+
+
+
+
+
+.icons .tooltipbutton .logincontainer{
+    position: absolute;
+    margin-left: -300px;
+    margin-top: 10px;
+}
+
+.icons .logincontainer .login{
+    padding: 14px;
+
+}
+.btnlogin{
+    border: solid white;
+}
+.hr1{
+    margin-top: -40px;
+}
+.icons .logincontainer .login a{
+    text-decoration: none;
+    color: white;
+    /* margin-bottom: -20px; */
+}
+
+.tooltipbutton .logincontainer .login .btnlogin{
+    height: 45px;
+    width: 130px;
+    font-size: 15px;
+}
+ 
+img{
+    height: 550px;
+    margin-left: 800px;
+    margin-top: -400px;
+}
+
+.text1{
+    margin-top: 150px;
+    margin-left: 200px;
+    /* z-index: 1;
+    position: relative; */
+}
+
+.tooltip {
+    top: -5px;
+    right: 105%;
+}
+
+.Submit{
+    background-color: red;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 3px;
+    margin-left: 200px;
+}
+
+strike{
+    margin-left: 20px;
+}
+
+.container2{
+    margin-top: 200px;
+    transition: all linear;
+
+}
+
+.container2 :hover{
+    transform: scale(1.2);
+}
+
+
+.text2{
+    margin-top: 150px;
+}
+
+.models{
+    
+    display: flex;
+    gap: 180px;
+    
+}
+
+.img2 img{
+    margin-left: -5px;
+    margin-top: 20px;
+    height: 150px;
+    width: 150px
+
+}
+
+.container3{
+    margin-top: 200px;
+    
+}
+
+
+button{
+    background-color: rgb(29, 28, 28);
+    color: white;
+    border: solid  rgb(29, 28, 28);
+    padding: 10px 20px;
+    border-radius: 3px;
+    margin-bottom: 80px;
+}
+
+
+.all{
+    background-color: red;
+    color: white;
+    border: solid red;
+}
+
+
+.assets{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.img3 img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 20px;
+   
+    
+}
+
+.Headphones{
+    height: 480px;
+    width: 320px;
+    padding: 20px;
+    border: solid wheat 0.5px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    
+}
+.Headphones1{
+    height: 480px;
+    width: 320px;
+    padding: 20px;
+    border-radius:10px ;
+    border: solid wheat 0.5px;
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    .prod{
+        margin-top: 150px;
+
+    }
+
+}
+
+
+
+#btn{
+    background-color: red;
+    border: solid red;
+    border-radius: 5px;
+    padding: 10px 100px;
+
+}
+
+.Rating .stars{
+    margin-right: 20px;
+}
+
+.bluetooth{
+    /* margin-left: 10px; */
+    margin-top: 20px;
+}
+
+.container4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container5{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.container5 .delivery{
+    display:flex;
+    align-items: center;
+    margin-top: 60px;
+    gap: 20px;
+    i{
+        font-size: 30px;
+    }
+    margin-bottom: 50px;
+}
+
+.h2{
+    margin-top: 60px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(27, 27, 27);
+}
+
+input{
+    background-color:  rgb(27, 27, 27);
+    color: white;
+    width: 350px;
+    padding: 10px;
+}
+
+#btn1{
+    background-color: red;
+    color: white;
+}
+
+form{
+    width: 400px;
+}
+
+.end{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ikons{
+    display: flex;
+    gap: 60px;
+
+
+}
+
+
+
+
+
+
+
+

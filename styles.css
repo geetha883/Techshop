@@ -1,0 +1,231 @@
+body{
+    background-color: rgb(29, 28, 28);
+    color: rgb(213, 222, 242);
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 30px;
+}
+
+.icons{
+    display: flex;
+    gap: 30px;
+
+}
+
+.jbl1 img{
+    width: 180px;
+    height: 180px;
+}
+
+.jbl1 {
+    margin-top: 50px;
+    border: solid whitesmoke 0.5px;
+    background-color: rgb(44, 44, 44);
+    height: 180px;
+    width: 180px;
+}
+
+.jbl0{
+    display: flex;
+}
+
+.jbl2 img{
+    height: 860px;
+    margin-top: 40px;
+}
+.text{
+    margin-top: 50px;
+}
+
+strike{
+    margin-left: 40px;
+}
+
+.price{
+    display: flex;
+    gap: 0px;
+
+}
+#btn button{
+    background-color: rgb(20, 161, 20);
+    color: wheat;
+    border: solid  rgb(20, 161, 20);
+    align-content: center;
+    padding: 5px 10px;
+    margin-top: 85px;
+    display: flex;
+}
+
+.Rating{
+    margin-top: 30px;
+    margin-bottom: 40px;
+
+}
+
+h1{
+    margin-top: 50px;
+}
+
+.hr2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.discount{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.btn{
+    background-color: rgb(55, 54, 54);
+    color: gray;
+    border: solid rgb(85, 85, 85)  0.5px;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+
+.offers{
+ display: flex;
+ justify-content: space-between;
+ 
+}
+.offer{
+    background-color: rgb(56, 55, 55);
+    border: solid  rgb(74, 74, 74);
+    justify-content: space-between;
+    width: 180px;
+    padding: 5px 5px;
+    margin-bottom: 40px;
+}
+
+#cart button{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border-radius: 2px;
+    border: solid  rgb(255, 0, 0);
+    padding: 8px 60px;
+    margin-top: 50px;
+}
+
+#red{
+    background-color: red;
+}
+
+.icons1 button{
+    background-color:rgb(29, 28, 28) ;
+    color: aliceblue;
+    align-items: center;
+    padding: 5px 10px;
+    border: solid rgb(29, 28, 28);
+    border-radius: 2px;
+}
+.icons1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 200px;
+    margin-top: 100px;
+}
+
+.brand{
+    display: flex;
+    gap: 280px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+
+
+.img3 img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 20px;
+   
+    
+}
+
+.Headphones{
+    height: 480px;
+    width: 320px;
+    padding: 20px;
+    border: solid wheat 0.5px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    
+}
+
+
+#bton {
+    background-color: red;
+    border: solid red;
+    border-radius: 5px;
+    padding: 10px 100px;
+
+}
+
+.container4{
+    display: flex;
+    gap: 15px;
+}
+
+
+.container5{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.container5 .delivery{
+    display:flex;
+    align-items: center;
+    margin-top: 60px;
+    gap: 20px;
+    i{
+        font-size: 30px;
+    }
+    margin-bottom: 50px;
+}
+
+.h2{
+    margin-top: 60px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(27, 27, 27);
+}
+
+input{
+    background-color:  rgb(27, 27, 27);
+    color: white;
+    width: 350px;
+    padding: 10px;
+}
+
+#btn1{
+    background-color: red;
+    color: white;
+    padding: 7px 100px;
+    border-radius: 2px;
+}
+
+form{
+    width: 400px;
+}
+
+.end{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ikons{
+    display: flex;
+    gap: 60px;
+}
